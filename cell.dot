@@ -1,0 +1,8 @@
+strict digraph "" {
+	Cell -> Mitochondria;
+	Cell -> Ribosoma;
+	Mitochondria -> A;
+	Mitochondria -> B;
+	Ribosoma -> A;
+	Ribosoma -> B;
+}
